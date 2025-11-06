@@ -1,7 +1,11 @@
-
 user_id,nome,perfil
 100,Carlos,Admin
 200,Juliana,User
 300,Ana,Editor
 400,Fernando,User
 500,Bruna,Admin
+600,Diego,User
+700,Mariana,Manager
+800,Pedro,User
+900,Clara,Editor
+1000,Rafael,Admin
