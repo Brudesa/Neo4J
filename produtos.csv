@@ -1,0 +1,11 @@
+produto_id,nome,categoria,preco
+1000,Notebook,Eletrônicos,3500.00
+1001,Mouse,Eletrônicos,89.90
+1002,Teclado,Eletrônicos,150.00
+1003,Monitor,Eletrônicos,950.00
+1004,Livro Python,Livros,79.90
+1005,Livro SQL,Livros,59.90
+1006,Fone Bluetooth,Eletrônicos,199.90
+1007,Smartphone,Eletrônicos,2800.00
+1008,Cadeira Gamer,Móveis,1200.00
+1009,Caneca Dev,Utilidades,39.90
