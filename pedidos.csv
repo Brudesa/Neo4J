@@ -1,0 +1,11 @@
+pedido_id,email,valor,data
+500,joao@email.com,150.50,2024-11-20
+501,maria@email.com,89.90,2024-11-21
+502,ana@email.com,300.00,2024-11-22
+503,bruno@email.com,450.00,2024-11-23
+504,carla@email.com,120.00,2024-11-24
+505,diego@email.com,78.90,2024-11-25
+506,clara@email.com,210.00,2024-11-26
+507,rafael@email.com,99.00,2024-11-27
+508,pedro@email.com,560.00,2024-11-28
+509,bruna@email.com,180.00,2024-11-29
