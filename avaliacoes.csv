@@ -1,0 +1,11 @@
+avaliacao_id,cliente_email,produto_id,nota,comentario
+1,joao@email.com,1000,4.5,"Ótimo desempenho, bateria dura bastante."
+2,maria@email.com,1004,5.0,"Explicação clara e exemplos práticos."
+3,bruno@email.com,1002,3.8,"Bom teclado, mas poderia ser mais silencioso."
+4,ana@email.com,1008,4.9,"Excelente smartphone, câmera incrível!"
+5,carla@email.com,1009,4.0,"Caneca bonita, mas o cabo esquenta."
+6,diego@email.com,1003,4.3,"Monitor nítido, ótimo custo-benefício."
+7,clara@email.com,1001,4.7,"Mouse leve e confortável."
+8,rafael@email.com,1005,3.9,"Conteúdo bom, mas poucas imagens."
+9,pedro@email.com,1006,5.0,"Som impecável e bateria duradoura."
+10,bruna@email.com,1007,4.8,"Desempenho rápido e design moderno."
